@@ -1,6 +1,6 @@
 ## React redux cart
 
-This is repository of Shopping cart built using react and redux.
+This is a repository of Shopping cart app built using react and redux.
 
 ## Project Setup:
 
